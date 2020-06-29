@@ -46,6 +46,16 @@ https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level1.
 
 https://raw.githubusercontent.com/ktsaou/blocklist-ipsets/master/firehol_level2.netset
 
+https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/Fanboy's_Brasil.txt
+
+https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/Generic_filters.txt
+
+https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/anti-anti-adblock.txt
+
+https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/anti-paywall.txt
+
+https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/whitelist.txt
+
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
