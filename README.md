@@ -1,11 +1,7 @@
 # Lists for adblocks
-Estas são minhas listas de regras para uBlock Origin, Adblock Plus e Nano Adblocker.
-
 These are my list of rules for uBlock Origin, Adblock Plus and Nano Adblocker.
 
 ## Other recommended lists
-Abaixo mais algumas listas de regras recomendadas:
-
 Below are some more lists of recommended rules:
 
 http://mirror1.malwaredomains.com/files/immortal_domains.txt
@@ -37,16 +33,6 @@ https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://openphish.com/feed.txt
 
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-
-https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/Fanboy's_Brasil.txt
-
-https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/Generic_filters.txt
-
-https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/anti-anti-adblock.txt
-
-https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/anti-paywall.txt
-
-https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/whitelist.txt
 
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
