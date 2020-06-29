@@ -1,0 +1,95 @@
+[Adblock Plus 2.0]
+! Title: Anti-paywall
+! Description: Severe list (may break some sites) to inhibit paywall methods
+! Expires: 9 days
+! Homepage: https://github.com/AntOn-88/adblock-filters
+! Source: https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/anti-paywall.txt
+! SEVERE RULES
+*/doi/*
+*/pw/*
+*fivewall*
+*ivcbrasil*
+*mediapass*
+*netdeal*
+*paywall*
+*pwapi*
+*tinypass*
+*pw.js
+.ad.nl/*
+! OTHER RULES
+###arcad_recirc
+###ConnatixVideoAd
+###leaderboard-wrapper
+##.ad-col
+##.arc-ad-wrapper
+##.pb-f-ads-arcads
+##.subscriber-ad
+##.tnt-ads
+##.tnt-ads-container
+##.tnt-dmp-reactive.modal
+##.tnt-section-sponsored
+##[class^="pb-f-ad-"]
+*content-gate.js
+*controla-acesso-aux.js
+*js/mtr.js
+/admin-ajax.php
+/Bootstrap.js$script
+/fivewall.js*
+/fivewall.min.js*
+/jquery.login.min.js
+/leaky-paywall/*
+/lee_subscription/*
+/mediapass.js*
+/mediapass.min.js*
+/metered_assets$script
+/metered_assets/*
+/nova-tela-register.js
+/payWall.Conteudo.js
+/paywall.js*
+/paywall.min.js*
+/promo_popup.$script
+/publicidade.ads.js
+/pwapi-$script
+/registraConteudosLidos.js
+/signup_background*
+/signup_wrapper*
+/SLoader.js
+/special-paywall.min.js*
+/stltoday.com/*/stl.init.js$script,domain=stltoday.com
+/tinypass.js*
+/tinypass.min.js*
+/tncms/*/metering/*
+/wallkit.js*
+/wallkit.min.js*
+||assets.bwbx.io/s3/fence/$script
+||assets.bwbx.io^*/pianola/$script
+||connext-cdn.ec.^$third-party
+||czx5eyk0exbhwp43ya.biz^$third-party
+||g2insights-cdn.^$third-party
+||loader-cdn.^$third-party
+||mediapass.com^$third-party
+||merreader.emol.cl/assets/js/merPramV2.js$script
+||meter-svc.*/meter.js
+||mg2connext.com^$third-party
+||news.google.com/swg/$script,third-party
+||prod-mng-proxy-connext.^$third-party
+||scroll.com^$third-party
+||smartlock.google.com^
+||tinypass.com^$third-party
+||wallkit.net^$third-party
+economist.com/*
+fivewall.com.br/*
+fivewall.com/*
+mediapass.com.br/*
+mediapass.com/*
+netdeal.com.br/*
+netdeal.com/*
+newstatesman.com/*
+outbrain.com/*
+paywall.com.br/*
+paywall.com/*
+piano.io/*
+poool.fr/*
+tinypass.com.br/*
+tinypass.com/*
+wallkit.net/*
