@@ -2,8 +2,8 @@
 ! Title: Fanboy's Brasil
 ! Description: Esta lista de filtros é baseada na "Fanboy's Spanish/Portuguese list" (já descontinuada) e foi elaborada para atuar como uma lista suplementar à "AdGuard Spanish/Portuguese filter" (nativa no uBlock Origin), sendo otimizada para o Brasil. Outra lista de filtros recomendada para o Brasil está disponível em: https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
 ! Expires: 9 days
-! Homepage: https://github.com/AntOn-88/adblock-filters
-! Source: https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/Fanboy's_Brasil.txt
+! Homepage: https://github.com/LexCTR
+! Source: https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/Fanboy's_Brasil.txt
 ! -----------------------------Regras de bloqueio----------------------------!
 ###ad_mrec_destaque
 ###ad_mrec_esporte
