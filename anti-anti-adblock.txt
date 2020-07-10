@@ -2,8 +2,8 @@
 ! Title: Fanboy's Brasil
 ! Description: Filters list based in anti-adblock-killer project (discontinued). Recommended to use this list in conjunction with the lists: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt and https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 ! Expires: 9 days
-! Homepage: https://github.com/AntOn-88/adblock-filters
-! Source: https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/anti-anti-adblock.txt
+! Homepage: https://github.com/LexCTR
+! Source: https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/anti-anti-adblock.txt
 ###k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I
 #@##banner_ad
 #@##sponsored-ad
