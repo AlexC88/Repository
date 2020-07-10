@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Anti-paywall
+! Title: Anti-paywall filters
 ! Description: List to inhibit paywall methods. It contains severe filters that can break some websites.
 ! Expires: 9 days
 ! Homepage: https://github.com/LexCTR
