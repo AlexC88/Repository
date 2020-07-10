@@ -2,8 +2,8 @@
 ! Title: Anti-paywall
 ! Description: List to inhibit paywall methods. It contains severe filters that can break some websites.
 ! Expires: 9 days
-! Homepage: https://github.com/AntOn-88/adblock-filters
-! Source: https://raw.githubusercontent.com/AntOn-88/adblock-filters/master/anti-paywall.txt
+! Homepage: https://github.com/LexCTR
+! Source: https://raw.githubusercontent.com/LexCTR/adblock_filter_lists/master/anti-paywall.txt
 !!! SEVERE FILTERS !!!
 */doi/*
 */metering/*
