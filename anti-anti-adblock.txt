@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Fanboy's Brasil
+! Title: Anti-anti-adblock Filters
 ! Description: Filters list based in anti-adblock-killer project (discontinued). Recommended to use this list in conjunction with the lists: https://easylist-downloads.adblockplus.org/antiadblockfilters.txt and https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 ! Expires: 9 days
 ! Homepage: https://github.com/LexCTR
